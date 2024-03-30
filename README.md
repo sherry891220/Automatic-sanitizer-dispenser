@@ -16,9 +16,13 @@
 ## 系統完整架構圖、流程圖、電路圖、設計
 * 架構圖：
 
+![image](https://github.com/sherry891220/Automatic-sanitizer-dispenser/blob/main/image/image1.png)
 * 流程圖：
- 
+
+![image](https://github.com/sherry891220/Automatic-sanitizer-dispenser/blob/main/image/image2.jpg)
 * 電路圖：
+
+![image](https://github.com/sherry891220/Automatic-sanitizer-dispenser/blob/main/image/image3.png)
 
 ## 系統開發工具、材料及技術
 * 開發工具：
@@ -48,7 +52,7 @@ VCC接正電位，TRIG接RA0，ECHO接RA1，GND接負電位。
 杜邦線常常會接觸不良。
 
   解決辦法2：
-只能盡量減少杜邦線延長連接的情況，降低接觸不量的機率。
+盡量減少杜邦線延長連接的情況，降低接觸不量的機率。
 
 * 困難3:
 馬達力道不足，無法擠壓酒精瓶。
